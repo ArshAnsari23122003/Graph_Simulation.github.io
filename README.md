@@ -1,10 +1,10 @@
 # Graph_Simulation
 An interactive graph visualization tool that demonstrates various pathfinding algorithms on a grid-based map. Users can set start and end points, place obstacles, and observe how different algorithms navigate the grid.
 
-🚀 Live Demo
+## 🚀 Live Demo
 https://arshansari23122003.github.io/Graph_Simulation.github.io/
 
-📌 Features
+## 📌 Features
 
 Visualize various pathfinding algorithms in real-time.
 
@@ -14,7 +14,7 @@ Place obstacles to create custom mazes.
 
 Interactive and responsive UI.
 
-🖥️ Available Algorithms
+## 🖥️ Available Algorithms
 
 Breadth-First Search (BFS)
 
@@ -27,7 +27,7 @@ A Algorithm (Euclidean & Manhattan heuristics)*
 Greedy Best-First Search (Euclidean & Manhattan heuristics)
 
 
-📖 How to Use
+## 📖 How to Use
 
 Set Start and End Points
 
@@ -44,7 +44,7 @@ Run an Algorithm
 Click on an algorithm button to visualize the pathfinding process.
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 HTML, CSS, JavaScript for the frontend.
 
@@ -53,13 +53,36 @@ Canvas API for drawing the grid and animations.
 Algorithms implemented in JavaScript for real-time execution.
 
 ## 📂 Project Structure
+Folder PATH listing for volume Windows
+Volume serial number is 90F5-4C94
+C:.
+�   index.html
+�   structure.txt
+�   style.css
+�   
++---js
+�   �   grid.js
+�   �   index.js
+�   �   maze.js
+�   �   tiles.js
+�   �   
+�   +---pathfindinfAlgos
+�           alg.js
+�           astar.js
+�           BFS.js
+�           DFS.js
+�           dijkstra.js
+�           greedy.js
+�           
++---videos
+        part1.gif
+        part2.gif
 
-
-
-🤝 Contributing
+        
+## 🤝 Contributing
 
 Feel free to fork this repository and enhance the project with new features or improvements.
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
