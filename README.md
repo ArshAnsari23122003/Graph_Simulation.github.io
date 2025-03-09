@@ -52,6 +52,10 @@ Canvas API for drawing the grid and animations.
 
 Algorithms implemented in JavaScript for real-time execution.
 
+## 📂 Project Structure
+
+
+
 🤝 Contributing
 
 Feel free to fork this repository and enhance the project with new features or improvements.
